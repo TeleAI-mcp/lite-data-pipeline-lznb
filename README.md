@@ -1,2 +1,3 @@
-# lite-data-pipeline-lznb
-A data processing pipeline for modern development workflows
+# Lite Data Pipeline Lznb
+
+A data processing pipeline for modern development workflows.
